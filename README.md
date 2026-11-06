@@ -45,15 +45,23 @@ The dashboard helps understand sales trends, identify top-performing cities and 
 - "Swiggy_Sales_Dashboard.xlsx" – Excel workbook containing the dataset, analysis, and interactive dashboard.
 - "Dashboard Screenshot" – Visual representation of the final dashboard.
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
+### 🍔 Swiggy Sales Analysis Dashboard
 
-"Swiggy Sales Dashboard" (Dashboard_Screenshot.png)
-
+<img src="https://raw.githubusercontent.com/sanketkenjale0027/Swiggy-Dashboard-Excel/main/Swiggy_Dashboard.png" width="100%" alt="Swiggy Sales Dashboard">
 ## 🎯 Project Objective
 
 The main objective of this project is to develop an interactive Excel dashboard that converts large-scale sales data into actionable insights, helping businesses understand sales performance, customer preferences, and geographical trends for better decision-making.
 
----
+## 👨‍💻 Author
 
-Project Category: Data Analytics | Excel Dashboard | Sales Analysis
+**Sanket Kenjale**
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
+Created as a Data Analytics project using Microsoft Excel.
+
+If you find this project interesting, feel free to explore the repository!
