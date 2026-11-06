@@ -42,8 +42,8 @@ The dashboard helps understand sales trends, identify top-performing cities and 
 
 ## 📁 Project Files
 
-- "Swiggy_Sales_Dashboard.xlsx" – Excel workbook containing the dataset, analysis, and interactive dashboard.
-- "Dashboard Screenshot" – Visual representation of the final dashboard.
+* Swiggy_Sales_Dashboard.xlsx" – Excel workbook containing the dataset, analysis, and interactive dashboard.
+* "Dashboard Screenshot" – Visual representation of the final dashboard.
 
 ## 📸 Dashboard Preview
 
